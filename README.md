@@ -12,7 +12,7 @@ This is the first version of the game.
 | Start Engine    | Press K                 |
 | Move Forward    | W or Arrow up           |
 | Move Left       | A  or left Arrow        |
-| Move Backward   | N then S  or Arrow down |
+| Move Backward   | R then S  or Arrow down |
 | Move Right      | N then D or right arrow |
 | Car instruction | B                       |
 
