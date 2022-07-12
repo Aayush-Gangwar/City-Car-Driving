@@ -5,6 +5,9 @@ This is the first version of the game.
 
   - Drive the car, having various physics applied.
   
+  ## Demo
+  ![Game Demo](https://user-images.githubusercontent.com/101112022/178598007-7118973f-dc42-4522-afdf-c0a1624bedb6.gif)
+
   ## Controls ##
 
 | Action          | Windows                 |
